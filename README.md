@@ -10,6 +10,7 @@ While pushing the code to git i made sure that i remove all the gadle dependency
 Make sure you build a java project and copy the asthaChamma folder into "app/src/main/java"
 
 Technical Features:
+Using JFRAMES as a source of userInterface(front end).
 This project is developed following Model View and Controller pattern typically known as MVC pattern.
 There are no tight coopling through inheritance in contrast i used dependence relationship(Uses-A) and aggregation.
 Each class obey single responsibility principle.
