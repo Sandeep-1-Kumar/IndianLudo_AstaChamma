@@ -1,4 +1,5 @@
 # IndianLudo_AstaChamma
+This board game never been implemented in Java or any other language.This is the first draft of this game.
 
 About game and overView:
 The game description is clearly mentioned in Functional_User_Requirments.pdf file.
